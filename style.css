@@ -1,0 +1,55 @@
+body {
+    background-color: #DC3545;
+    color: #fff;
+
+}
+
+.blog-header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+    font-family: 'Lora', serif;
+}
+
+.blog-header-logo {
+    font-family: 'Lora', serif;
+    font-size: 1.45rem;
+}
+
+.blog-header a {
+    text-decoration: none;
+}
+
+.nav-scroller a {
+    font-family: 'Lora', serif;
+    text-decoration: none;
+}
+
+aside a {
+    color: #fff;
+}
+
+aside a:hover {
+    color: #fff;
+}
+
+aside ul {
+    list-style-type: none;
+}
+
+aside ul li {
+    margin-bottom: 1rem;
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.blog-footer a {
+    color: #fff;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
